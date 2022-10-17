@@ -1,5 +1,5 @@
+[Checkout traversy video to learn more](https://youtu.be/Oi9z5gfIHJs)
 # Welcome to [Astro](https://astro.build)
-
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
